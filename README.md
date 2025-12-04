@@ -1,2 +1,2 @@
-# weekdays-10am-changes are from terminal
+weekdays-10am-changes are from terminal
 created for testing and teaching 
