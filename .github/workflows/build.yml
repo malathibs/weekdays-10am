@@ -7,8 +7,8 @@ on:
 
 
 jobs:
-  sonar scan:
-    name: sonar scan
+  sonar-scan:
+    name: sonar-scan
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
